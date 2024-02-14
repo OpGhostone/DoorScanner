@@ -1,8 +1,8 @@
 # DoorScanner
 Simple port scanner tool
 
-options:
-  -h, --help            show this help message and exit
-  -t TARGET, --target TARGET
-  -p PORT, --port PORT
-  -T TIMEOUT, --timeout TIMEOUT
+options: <br>
+  -h, --help            show this help message and exit <br>
+  -t TARGET, --target TARGET <br>
+  -p PORT, --port PORT <br>
+  -T TIMEOUT, --timeout TIMEOUT <br>
